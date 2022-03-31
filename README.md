@@ -30,7 +30,7 @@ https://answers.unity.com/questions/971872/what-does-serializable-mean-in-c-shar
 https://www.itread01.com/content/1548143139.html
 https://tw.pays-tarusate.org/838312-why-should-i-use-serializefield-FLDGDB
 
-#Unity C#事件機制(delegate, events)
+# Unity C#事件機制(delegate, events)
 `Controller.cs, Join.cs`
 
 參考資料 :
@@ -40,7 +40,7 @@ https://dev.twsiyuan.com/2017/03/c-sharp-event-in-unity.html
 UnityEvent
 https://home.gamer.com.tw/artwork.php?sn=5108437
 
-#Properties應用
+# Properties應用
 參考資料 : 
 https://codingnote.cc/zh-tw/p/234419/
 https://home.gamer.com.tw/creationDetail.php?sn=2642674
