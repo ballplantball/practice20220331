@@ -3,7 +3,7 @@ date : 2022/03/31
 Note : 序列化(Serializable)、事件機制(delegate, events)、屬性(Properties)、OpenXR初始設定  
 
 # 序列化(Serializable)
-`_serialize.cs, 延伸學習class應用 _class.cs`
+`_serialize.cs, 延伸學習class應用 _class.cs`  
 常看到Open Source會有以下這些序列與反序列的應用，簡單統整其與Inspector的引用方式。  
 
 [Serializable] 可序列化類別、結構，使其宣告時可以在Inspector做調整。  
@@ -32,7 +32,7 @@ https://www.itread01.com/content/1548143139.html
 https://tw.pays-tarusate.org/838312-why-should-i-use-serializefield-FLDGDB  
 
 # Unity C#事件機制(delegate, events)
-`Controller.cs, Join.cs`
+`Controller.cs, Join.cs`  
 
 參考資料 :  
 https://www.itread01.com/content/1550158208.html  
