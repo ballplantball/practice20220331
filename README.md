@@ -8,7 +8,8 @@ Note : 序列化(Serializable)、事件機制(delegate, events)、屬性(Propert
 
 [Serializable] 可序列化類別、結構，使其宣告時可以在Inspector做調整。  
 ex : 可於Inspector調整_student的number/name; 練習Class / Struct 的差異與應用
-```public class Main : MonoBehaviour
+```
+public class Main : MonoBehaviour
 {
     public student _student;
 }
