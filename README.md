@@ -1,5 +1,6 @@
 # Unity C# Practice
 date : 2022/03/31
+Note : 序列化(Serializable)、事件機制(delegate, events)、屬性(Properties)、OpenXR初始設定
 
 # 序列化(Serializable)
 `_serialize.cs, 延伸學習class應用 _class.cs`
@@ -40,7 +41,15 @@ https://dev.twsiyuan.com/2017/03/c-sharp-event-in-unity.html
 UnityEvent
 https://home.gamer.com.tw/artwork.php?sn=5108437
 
-# Properties應用
+# 屬性(Properties)應用
+
 參考資料 : 
 https://codingnote.cc/zh-tw/p/234419/
 https://home.gamer.com.tw/creationDetail.php?sn=2642674
+
+# OpenXR
+
+參考資料 : 
+https://www.twblogs.net/a/5c2f525fbd9eee35b3a4ae81
+https://car.inotgo.com/2022/02/202202180714350852.html
+codegarden.cn/article/6865/
